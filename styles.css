@@ -328,6 +328,7 @@ nav {
   z-index: 2;
   padding: 10px;
   border-radius: 50%;
+  cursor: pointer;
 }
 .product-detail-close img {
   position: absolute;
@@ -354,7 +355,6 @@ nav {
   color: var(--very-light-pink);
   font-size: var(--md);
   margin-top: 0;
-  margin-bottom: 36px;
 }
 .product-detail-info p:nth-child(3) {
   color: var(--very-light-pink);
